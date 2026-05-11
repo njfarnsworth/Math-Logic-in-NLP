@@ -1,4 +1,4 @@
-# NLP-Final-Project
+# Mathematical Logic in Natural Language Processing
 
 This is the main GitHub repository for Nayda and Judah's COSC 426 (NLP) Final Project, Fall 2025
 
